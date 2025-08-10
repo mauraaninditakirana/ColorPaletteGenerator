@@ -31,4 +31,7 @@ Efek 3D & Glassmorphism: Kartu warna menggunakan efek glassmorphism dan memiliki
 
 Instruksi Setup
 
+Buka Link berikut:
+https://color-palette-generator-bymaura.netlify.app/
+
 AI Support
