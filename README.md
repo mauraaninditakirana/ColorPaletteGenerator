@@ -51,3 +51,5 @@ Mempercepat Proses Debugging
 Saat menemui masalah seperti animasi yang kaku atau logika fungsi yang kurang optimal, AI memberikan alternatif solusi yang efektif, sehingga proses perbaikan menjadi lebih efisien.
 
 Secara keseluruhan, AI berperan sebagai akselerator kreatif dan teknis yang memungkinkan saya membangun aplikasi dengan kualitas lebih tinggi dalam waktu yang lebih singkat — sekaligus menjadikannya lebih interaktif, menarik, dan profesional.
+
+## Link Presentasi
