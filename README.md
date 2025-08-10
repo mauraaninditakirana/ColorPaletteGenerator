@@ -1,4 +1,4 @@
-Color Palette Generator
+#Color Palette Generator
 
 Adalah sebuah aplikasi web interaktif dan visual untuk menemukan dan membuat palet warna yang cantik. Aplikasi ini dirancang dengan tampilan yangn colorful untuk memberikan pengalaman yang menyenangkan. Proyek ini dibangun sebagai bagian dari Capstone Project HACKTIV8 & IBM Student Developer Initiative.
 
