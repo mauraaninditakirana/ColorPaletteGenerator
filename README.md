@@ -1,11 +1,14 @@
 Color Palette Generator
+
 Adalah sebuah aplikasi web interaktif dan visual untuk menemukan dan membuat palet warna yang cantik. Aplikasi ini dirancang dengan tampilan yangn colorful untuk memberikan pengalaman yang menyenangkan. Proyek ini dibangun sebagai bagian dari Capstone Project HACKTIV8 & IBM Student Developer Initiative.
 
 Deskripsi
+
 Aplikasi ini memungkinkan pengguna untuk menghasilkan palet warna harmonis yang terdiri dari lima warna hanya dengan satu kali klik tombol atau menekan tombol spasi. Setiap warna ditampilkan dalam kartu interaktif yang dilengkapi dengan kode HEX, sehingga pengguna dapat menyalin kode tersebut ke clipboard secara instan hanya dengan mengklik kartu yang diinginkan.
 Selain fungsionalitasnya, aplikasi ini juga mengutamakan aspek estetika dan pengalaman pengguna (UX) melalui penggunaan latar belakang gradien animasi, efek partikel yang dinamis, desain bergaya glassmorphism, serta animasi 3D yang halus, sehingga memberikan kesan modern dan memikat.
 
 Teknologi yang digunakan
+
 Proyek ini dibangun dari dasar tanpa menggunakan framework JavaScript eksternal, dengan fokus pada penguasaan teknologi web inti.
 Frontend:HTML5, CSS, dan JavaScript.
 
@@ -14,6 +17,7 @@ Google Fonts: Menggunakan font 'Inter' untuk tipografi yang bersih dan modern.
 Navigator Clipboard API: Digunakan untuk fungsionalitas "salin ke clipboard".
 
 Fitur
+
 Menampilkan Palet Acak: Menghasilkan palet lima warna baru dengan menekan tombol "Generate Palette" atau tombol spasi.
 Salin ke Clipboard: Fungsi sekali klik pada setiap kartu warna untuk langsung menyalin kode HEX ke clipboard.
 Warna Teks kode HEX Dinamis: Warna teks kode HEX (hitam atau putih) yang secara otomatis disesuaikan berdasarkan kecerahan warna latar belakang untuk memastikan keterbacaan yang maksimal.
