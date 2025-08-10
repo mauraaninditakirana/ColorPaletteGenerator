@@ -2,12 +2,12 @@
 
 Adalah sebuah aplikasi web interaktif dan visual untuk menemukan dan membuat palet warna yang cantik. Aplikasi ini dirancang dengan tampilan yangn colorful untuk memberikan pengalaman yang menyenangkan. Proyek ini dibangun sebagai bagian dari Capstone Project HACKTIV8 & IBM Student Developer Initiative.
 
-Deskripsi
+## Deskripsi
 
 Aplikasi ini memungkinkan pengguna untuk menghasilkan palet warna harmonis yang terdiri dari lima warna hanya dengan satu kali klik tombol atau menekan tombol spasi. Setiap warna ditampilkan dalam kartu interaktif yang dilengkapi dengan kode HEX, sehingga pengguna dapat menyalin kode tersebut ke clipboard secara instan hanya dengan mengklik kartu yang diinginkan.
 Selain fungsionalitasnya, aplikasi ini juga mengutamakan aspek estetika dan pengalaman pengguna (UX) melalui penggunaan latar belakang gradien animasi, efek partikel yang dinamis, desain bergaya glassmorphism, serta animasi 3D yang halus, sehingga memberikan kesan modern dan memikat.
 
-Teknologi yang digunakan
+## Teknologi yang digunakan
 
 Proyek ini dibangun dari dasar tanpa menggunakan framework JavaScript eksternal, dengan fokus pada penguasaan teknologi web inti.
 Frontend:HTML5, CSS, dan JavaScript.
@@ -16,7 +16,7 @@ API & Pustaka Eksternal:
 Google Fonts: Menggunakan font 'Inter' untuk tipografi yang bersih dan modern.
 Navigator Clipboard API: Digunakan untuk fungsionalitas "salin ke clipboard".
 
-Fitur
+## Fitur
 
 Menampilkan Palet Acak: Menghasilkan palet lima warna baru dengan menekan tombol "Generate Palette" atau tombol spasi.
 Salin ke Clipboard: Fungsi sekali klik pada setiap kartu warna untuk langsung menyalin kode HEX ke clipboard.
@@ -29,12 +29,12 @@ Latar Belakang Dinamis: Gradien animasi yang bergerak halus sebagai latar belaka
 Efek Partikel: Partikel-partikel yang melayang perlahan untuk menambah kedalaman visual.
 Efek 3D & Glassmorphism: Kartu warna menggunakan efek glassmorphism dan memiliki animasi 3D saat di-hover dan saat palet baru dibuat.
 
-Instruksi Setup
+## Instruksi Setup
 
 Buka Link berikut:) :
 https://color-palette-generator-bymaura.netlify.app/
 
-AI Support
+## AI Support
 
 Beberapa kontribusi nyata AI di proyek ini antara lain:
 
