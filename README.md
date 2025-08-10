@@ -30,3 +30,5 @@ Efek Partikel: Partikel-partikel yang melayang perlahan untuk menambah kedalaman
 Efek 3D & Glassmorphism: Kartu warna menggunakan efek glassmorphism dan memiliki animasi 3D saat di-hover dan saat palet baru dibuat.
 
 Instruksi Setup
+
+AI Support
