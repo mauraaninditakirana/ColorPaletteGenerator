@@ -31,7 +31,23 @@ Efek 3D & Glassmorphism: Kartu warna menggunakan efek glassmorphism dan memiliki
 
 Instruksi Setup
 
-Buka Link berikut:
+Buka Link berikut:) :
 https://color-palette-generator-bymaura.netlify.app/
 
 AI Support
+
+Beberapa kontribusi nyata AI di proyek ini antara lain:
+
+Membantu Merancang dan Mengembangkan Fitur Utama
+AI membantu membangun fungsi-fungsi inti, seperti pembuat kode warna HEX acak dan penentuan otomatis warna teks berdasarkan kecerahan latar belakang. Hal ini tidak hanya mempercepat pengembangan, tetapi juga meningkatkan kualitas dan kenyamanan penggunaan aplikasi.
+
+Memberikan Solusi Kreatif untuk UX & Visual
+Dari efek gradien animasi yang bergerak halus, partikel yang melayang, hingga desain glassmorphism yang elegan, AI memberikan referensi dan contoh kode yang siap pakai. Efek-efek ini berhasil meningkatkan daya tarik visual aplikasi secara signifikan.
+
+Menyempurnakan Interaksi dan Animasi
+AI menyarankan detail teknis seperti penggunaan cubic-bezier untuk transisi yang lebih natural dan bouncy, membuat animasi terasa hidup dan menyenangkan.
+
+Mempercepat Proses Debugging
+Saat menemui masalah seperti animasi yang kaku atau logika fungsi yang kurang optimal, AI memberikan alternatif solusi yang efektif, sehingga proses perbaikan menjadi lebih efisien.
+
+Secara keseluruhan, AI berperan sebagai akselerator kreatif dan teknis yang memungkinkan saya membangun aplikasi dengan kualitas lebih tinggi dalam waktu yang lebih singkat — sekaligus menjadikannya lebih interaktif, menarik, dan profesional.
